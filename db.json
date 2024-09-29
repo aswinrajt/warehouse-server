@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "product": "Piston",
+      "stock": "56",
+      "price": "420",
+      "id": 1
+    },
+    {
+      "product": "Oil seal",
+      "stock": "52",
+      "price": "295",
+      "id": 2
+    },
+    {
+      "product": "Air filter",
+      "stock": "53",
+      "price": "210",
+      "id": 3
+    },
+    {
+      "product": "Oil filter",
+      "stock": "32",
+      "price": "150",
+      "id": 4
+    },
+    {
+      "product": "Fenders",
+      "stock": "26",
+      "price": "450",
+      "id": 5
+    },
+    {
+      "product": "Axle",
+      "stock": "12",
+      "price": "850",
+      "id": 6
+    }
+  ]
+}
